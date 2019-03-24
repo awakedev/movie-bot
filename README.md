@@ -1,1 +1,1 @@
-# movie-bot
+# Movie-traversal bot
